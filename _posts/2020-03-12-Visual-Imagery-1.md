@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Visual Imagery-1."
+title:  "Visual Imagery 1."
 date:   2020-03-6 
 img:
 ---
