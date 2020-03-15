@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Brief Breakdown"
+date:   2020-03-10 
+img:
+
+---
+
+
 "Significant solutions tend to emerge when new production techniques are exploited as a means to a greater end; the crafting of objects that stands testament to the people rather than manufacturing or functional imperatives."    
 
 **Basic design elements of:**  
