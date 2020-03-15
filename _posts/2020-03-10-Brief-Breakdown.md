@@ -15,7 +15,7 @@ img:
 * Materials (materials and their visual quality will help to add specificity and depth to your interpretation)   
 * Textures  
 (these by definition implicate composition, proportion, balance, scale, colour, light and shadow, contrast,
-transparency and reflectivity).**  
+transparency and reflectivity).  
 
 The 3D enclosure of the piece of moon dust from the Apollo 11 mission should explicitly convey through visual language: 
 * The Identity (Social and cultural values) 
