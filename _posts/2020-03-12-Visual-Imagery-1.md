@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Visual Imagery 1."
-date:   2020-03-6 
+date:   2020-03-11
 img:
 ---
 <img src="{{site.baseurl}}/assets/img/DesignImages/samplebag.jpg">
