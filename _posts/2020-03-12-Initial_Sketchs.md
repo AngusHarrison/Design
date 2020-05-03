@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Initial Sketches"
+title:  "Initial 2min Sketches"
 date:   2020-03-12 
 img:
 ---
