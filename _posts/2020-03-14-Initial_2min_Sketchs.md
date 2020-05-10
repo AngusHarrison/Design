@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Initial 2min Sketches"
-date:   2020-03-12 
+date:   2020-03-14 
 img:
 ---
 <img src="{{site.baseurl}}/assets/img/DesignImages/sketch1.jpg">
