@@ -7,6 +7,8 @@ img:
 
 <img src="{{site.baseurl}}/assets/img/DesignImages/render3.JPG">
 <img src="{{site.baseurl}}/assets/img/DesignImages/render4.JPG">
+  
+Concept 1 draws insperation in its form from command module of the saturn V Rocket. The shape of the window complements the form of the body, and allows the space dust to be observed. The brushed matt aluminum 
 <img src="{{site.baseurl}}/assets/img/DesignImages/render5.JPG">
 <img src="{{site.baseurl}}/assets/img/DesignImages/render6.JPG">
 <img src="{{site.baseurl}}/assets/img/DesignImages/render1.JPG">
