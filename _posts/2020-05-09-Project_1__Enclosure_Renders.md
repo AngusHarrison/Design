@@ -19,7 +19,6 @@ img:
 <img src="{{site.baseurl}}/assets/img/DesignImages/render16.JPG">
 <img src="{{site.baseurl}}/assets/img/DesignImages/render17.JPG">
 <img src="{{site.baseurl}}/assets/img/DesignImages/render18.JPG">
-<img src="{{site.baseurl}}/assets/img/DesignImages/render1.JPG">
 <img src="{{site.baseurl}}/assets/img/DesignImages/render19.JPG">
 <img src="{{site.baseurl}}/assets/img/DesignImages/render20.JPG">
 <img src="{{site.baseurl}}/assets/img/DesignImages/render21.JPG">
