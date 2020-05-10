@@ -7,8 +7,9 @@ img:
 
 <img src="{{site.baseurl}}/assets/img/DesignImages/render3.JPG">
 <img src="{{site.baseurl}}/assets/img/DesignImages/render4.JPG">
-  
-Concept 1 draws insperation in its form from command module of the saturn V Rocket. The shape of the window complements the form of the body, and allows the space dust to be observed. The brushed matt aluminum 
+
+Concept 1 draws insperation in its form from command module of the saturn V Rocket. The shape of the window complements the form of the polished aluminum body, and allows the space dust to be observed. The brushed matte black aluminum base creates a grounded enclosure with the matte black drawing on the darkness of space. The textured matte red and blue cap piece allows for a tight seal with the body ensuring none of the hazdious space dust escapes. 
+
 <img src="{{site.baseurl}}/assets/img/DesignImages/render5.JPG">
 <img src="{{site.baseurl}}/assets/img/DesignImages/render6.JPG">
 <img src="{{site.baseurl}}/assets/img/DesignImages/render1.JPG">
