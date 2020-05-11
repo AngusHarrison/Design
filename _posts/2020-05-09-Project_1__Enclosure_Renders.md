@@ -25,13 +25,13 @@ Concept 3 is of a more abstrat form, the prisim finds its shape from the triangu
 <img src="{{site.baseurl}}/assets/img/DesignImages/render11.JPG">
 <img src="{{site.baseurl}}/assets/img/DesignImages/render12.JPG">
 
-Concept 4 contrast the organic form of the iconic Neil Armstrong footprint against the geometric body, formed of a rough concrete material drawing from the lunar surface. The the blue footprint is accented by the red tred the extrudes through into the glass eliptical dome that contains the sample. If full of dust the base of the tread will appear as if actually on the moon.  
+Concept 4 contrast the organic form of the iconic Neil Armstrong footprint against the geometric body, formed of a rough concrete material drawing from the lunar surface. The the blue footprint is accented by the red tred the extrudes through into the glass eliptical dome that contains the sample. If the dome is full of dust the base of the tread will appear as if actually on the moon.  
 
 
 <img src="{{site.baseurl}}/assets/img/DesignImages/render13.JPG">
 <img src="{{site.baseurl}}/assets/img/DesignImages/render14.JPG">
 
-Concept 5 Geodesic
+Concept 5 is a triagular Geodesic, this was inspired by the geometric shapes used by NASA and the mathmatical nature of the form pays homage to the engineering behind the Apollo 11 mission.
 
 
 <img src="{{site.baseurl}}/assets/img/DesignImages/render15.JPG">
@@ -39,7 +39,8 @@ Concept 5 Geodesic
 <img src="{{site.baseurl}}/assets/img/DesignImages/render17.JPG">
 
 
-Refinement 1 Sample tool
+Refinement 1  
+To develop concept 2 dowels where added to increase the practicality of the enclosure, some function elements where also added so that the jaws will contract when the body is placed on the base. A red ball was also added to help visulise the object better, when rendering.
 
 
 
