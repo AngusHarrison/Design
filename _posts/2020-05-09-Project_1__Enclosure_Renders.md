@@ -25,18 +25,19 @@ Concept 3 is of a more abstrat form, the prisim finds its shape from the triangu
 <img src="{{site.baseurl}}/assets/img/DesignImages/render11.JPG">
 <img src="{{site.baseurl}}/assets/img/DesignImages/render12.JPG">
 
-Concept 4 is of a more organic form. Again drawing on the iconic Neil Armstrong footprint
+Concept 4 contrast the organic form of the iconic Neil Armstrong footprint against the geometric body, formed of a rough concrete material drawing from the lunar surface. The the blue footprint is accented by the red tred the extrudes through into the glass eliptical dome that contains the sample. If full of dust the base of the tread will appear as if actually on the moon.  
 
 
 <img src="{{site.baseurl}}/assets/img/DesignImages/render13.JPG">
 <img src="{{site.baseurl}}/assets/img/DesignImages/render14.JPG">
-<img src="{{site.baseurl}}/assets/img/DesignImages/render15.JPG">
 
 Concept 5 Geodesic
 
+
+<img src="{{site.baseurl}}/assets/img/DesignImages/render15.JPG">
 <img src="{{site.baseurl}}/assets/img/DesignImages/render16.JPG">
 <img src="{{site.baseurl}}/assets/img/DesignImages/render17.JPG">
-<img src="{{site.baseurl}}/assets/img/DesignImages/render18.JPG">
+
 
 Refinement 1 Sample tool
 
