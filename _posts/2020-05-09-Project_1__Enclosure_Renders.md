@@ -24,15 +24,32 @@ Concept 3 is of a more abstrat form, the prisim finds its shape from the triangu
 <img src="{{site.baseurl}}/assets/img/DesignImages/render10.JPG">
 <img src="{{site.baseurl}}/assets/img/DesignImages/render11.JPG">
 <img src="{{site.baseurl}}/assets/img/DesignImages/render12.JPG">
+
+Concept 4 is of a more organic form. Again drawing on the iconic Neil Armstrong footprint
+
+
 <img src="{{site.baseurl}}/assets/img/DesignImages/render13.JPG">
-
-
 <img src="{{site.baseurl}}/assets/img/DesignImages/render14.JPG">
 <img src="{{site.baseurl}}/assets/img/DesignImages/render15.JPG">
+
+Concept 5 Geodesic
+
 <img src="{{site.baseurl}}/assets/img/DesignImages/render16.JPG">
 <img src="{{site.baseurl}}/assets/img/DesignImages/render17.JPG">
 <img src="{{site.baseurl}}/assets/img/DesignImages/render18.JPG">
+
+Refinement 1 Sample tool
+
+
+
+
 <img src="{{site.baseurl}}/assets/img/DesignImages/render19.JPG">
 <img src="{{site.baseurl}}/assets/img/DesignImages/render20.JPG">
+
+Refinement 2 Geodesic
+
+
 <img src="{{site.baseurl}}/assets/img/DesignImages/render21.JPG">
 <img src="{{site.baseurl}}/assets/img/DesignImages/render22.JPG">
+
+Final  
